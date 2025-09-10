@@ -57,6 +57,8 @@ Simply scan the QR code (if provided) or click the badge above to download the A
 ![IMG-20250910-WA0003](https://github.com/user-attachments/assets/cfff8423-4330-427d-a1d2-a6f93efc7f4e)
 ![WhatsApp Image 2025-09-10 at 12 22 55_3b8aed10](https://github.com/user-attachments/assets/e74b1b33-dabf-463e-9a96-a6d224907741)
 ![WhatsApp Image 2025-09-10 at 12 22 55_9247560c](https://github.com/user-attachments/assets/af6acf93-8b98-427b-9111-ef52ce769a90)
+![WhatsApp Image 2025-09-10 at 13 19 20_8ccfde2b](https://github.com/user-attachments/assets/42f1fc09-aa61-41ed-9acd-b0ff895b1e1b)
+![WhatsApp Image 2025-09-10 at 13 19 20_094adc6c](https://github.com/user-attachments/assets/c87d3cf7-9a40-4dba-be3d-065a33350b96)
 
 
 ### Option 2: Build Locally
